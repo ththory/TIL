@@ -19,3 +19,6 @@ npx (Node Package Runner)
 
 - NestJS 프로젝트 시작
 - 서버 사이드 애플리케이션 vs 클라이언트 사이드 애플리케이션
+
+# 01/17/수
+- NestJS CLI 사용법 (use_nest_cli)
