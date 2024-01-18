@@ -22,3 +22,7 @@ npx (Node Package Runner)
 
 # 01/17/수
 - NestJS CLI 사용법 (use_nest_cli)
+
+# 01/18/목
+- NestJS ValidationPipe
+- TypeScript Type Checking이 가능한 이유
