@@ -16,7 +16,7 @@ Object Relational Mapping
 ```tsx
 const { Entity, PrimaryGeneratedColumn, Column, createConnection } = require("typeorm");
 
-@Entity() user
+@Entity()
 class User {
   @PrimaryGeneratedColumn()
   id: number;
